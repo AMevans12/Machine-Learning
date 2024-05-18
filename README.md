@@ -64,7 +64,7 @@ Contributions are welcome! If you have any improvements, suggestions, or bug fix
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-- Email: [Evanhis](evanhislupus143@gmail.com)
+- Email: [evanhislupus143@gmail.com](mailto:evanhislupus143@gmail.com)
 - GitHub: [AMevans12](https://github.com/AMevans12)
 
 Happy coding!
